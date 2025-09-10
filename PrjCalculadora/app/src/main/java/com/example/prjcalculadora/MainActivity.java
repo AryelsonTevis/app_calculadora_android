@@ -156,9 +156,8 @@ public class MainActivity extends AppCompatActivity {
                 btnMh.setEnabled(false);
                 vlMemoria = 0;
                 txvMemoriaVl.setText(String.valueOf(""));
-                edtValor1.setText("");
-                edtValor2.setText("");
-                txtResultadoVl.setText(String.valueOf(""));
+
+                
                 flag=1;
             }
         });
